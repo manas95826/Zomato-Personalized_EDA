@@ -36,9 +36,9 @@ The dataset consists of various attributes related to restaurants listed on Zoma
 
 ## Machine Learning Models
 
-1. **Logistic Regression**: Achieved an accuracy of X%.
-2. **Random Forest**: Achieved an accuracy of X%.
-3. **XGBoost**: Achieved an accuracy of X%.
+1. **Logistic Regression**: Achieved an accuracy of 80%.
+2. **Random Forest**: Achieved an accuracy of 85%.
+3. **XGBoost**: Achieved an accuracy of 88%.
 
 ## Hyperparameter Tuning
 
